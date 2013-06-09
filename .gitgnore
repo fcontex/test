@@ -1,0 +1,4 @@
+store/cache/*
+_release/*
+_res/*
+_test/*
